@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/vinit.bothra/android/AndroidStudioProjects/HorizantalListViewExample/app/build/intermediates/pre-dexed/debug/classes-62c3efc91afcddffb601b07174a5a1d407b8fd6e.jar"
+        jar="/Users/vinit.bothra/android/AndroidStudioProjects/HorizantalListViewExample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="/Users/vinit.bothra/android/AndroidStudioProjects/HorizantalListViewExample/app/build/intermediates/pre-dexed/debug/classes-26d5a5270de0bbe07a3cb068d32bbf13e59ddd9e.jar"
+        jar="/Users/vinit.bothra/android/AndroidStudioProjects/HorizantalListViewExample/build/intermediates/exploded-aar/org.lucasr.twowayview/twowayview/0.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1cdf54973ad656c13a425458ea1a46e51effa7e6"/>
+    <item
+        dex="/Users/vinit.bothra/android/AndroidStudioProjects/HorizantalListViewExample/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-fe930dc68beb1e566675ce71b270d4091c6c249b.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>
